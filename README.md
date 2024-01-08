@@ -3,7 +3,7 @@
 Goal: Finding the conserved water-based pharmacophore sites 
 
 
-![Acceptor and Donot atoms in a ligand]()
+![Pharmacophores acting as Donor or Acceptor atoms for hydrogen bonding]()
 ![140 ligands of aldose reductase (ALDR) protein]()
-![Acceptor and Donot atoms in a ligand]()
-![Acceptor and Donot atoms in a ligand]()
+![Donor atoms in a ligand and pharmacophores]()
+![Acceptor atoms in a ligand and pharmacophores]()
