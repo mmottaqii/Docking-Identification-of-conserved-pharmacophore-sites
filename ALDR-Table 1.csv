@@ -1,0 +1,7 @@
+N_Ligands = 139,Label,Atom's specs,Acceptors for H-bonding,Donors for H-bonding,Hydrophobic interactions,,,,,,,,,,,,,,,,,,,,
+Aldr_atom_1,Acceptor,/aldr//A/WAT`2/O,141,5,NA,,,,,,,,,,,,,,,,,,,,
+Aldr_atom_2,Acceptor,/aldr//A/WAT`3/O,136,2,NA,,,,,,,,,,,,,,,,,,,,
+Aldr_atom_3,Grease,/aldr//G/WAT`1/C,NA,NA,266,,,,,,,,,,,,,,,,,,,,
+Aldr_atom_4,Grease,/aldr//G/WAT`4/C,NA,NA,293,,,,,,,,,,,,,,,,,,,,
+Aldr_atom_5,Grease,/aldr//G/WAT`5/C,NA,NA,122,,,,,,,,,,,,,,,,,,,,
+Aldr_atom_6,Grease,/aldr//G/WAT`6/C,NA,NA,259,,,,,,,,,,,,,,,,,,,,
