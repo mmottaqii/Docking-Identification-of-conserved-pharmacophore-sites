@@ -12,7 +12,7 @@ Results for four proteins are available in the Results/ directory
 ![Acceptor atoms in a ligand and pharmacophores](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_3.png?raw=true)
 ![Donor atoms in a ligand and pharmacophores](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_4.png?raw=true)
 
-**Results:**
+**Example Results for ALDR (human Aldehyde dehydrogenase 1A3, PBDID:6TGW) :**
 
 |N_Ligands = 139|Label   |Atom's specs    |Acceptors for H-bonding|Donors for H-bonding|Hydrophobic interactions|
 |---------------|--------|----------------|-----------------------|--------------------|------------------------|
