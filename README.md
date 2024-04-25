@@ -1,6 +1,7 @@
 # PyMol_conserved_pharmacophore_sites
 
-Goal: Finding the conserved water-based pharmacophore sites 
+Analysis goal: Finding the conserved water-based pharmacophore sites 
+
 
 
 ![Pharmacophores acting as Donor or Acceptor atoms for hydrogen bonding](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/Picture1.png?raw=true)
