@@ -2,6 +2,9 @@
 
 Analysis goal: Finding the conserved water-based pharmacophore sites 
 
+The script is available in Script/ directory
+
+Results for four proteins are available in the Results/ directory
 
 
 ![Pharmacophores acting as Donor or Acceptor atoms for hydrogen bonding](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/Picture_1.png?raw=true)
