@@ -1,0 +1,12 @@
+,Atom Details,Label,Acceptor H-Bonds,Donor H-Bonds,Hydrophobic Interactions
+Met__atom_1,/ppara//A/WAT`3/O,Acceptor,81,32,NA
+Met__atom_2,/ppara//A/WAT`9/O,Acceptor,27,25,NA
+Met__atom_3,/ppara//B/WAT`7/O,Donor,86,40,NA
+Met__atom_4,/ppara//B/WAT`8/N,Acceptor,86,40,NA
+Met__atom_5,/ppara//G/WAT`1/C,Grease,NA,NA,28
+Met__atom_6,/ppara//G/WAT`2/C,Grease,NA,NA,48
+Met__atom_7,/ppara//G/WAT`4/C,Grease,NA,NA,251
+Met__atom_8,/ppara//G/WAT`5/C,Grease,NA,NA,285
+Met__atom_9,/ppara//G/WAT`6/C,Grease,NA,NA,146
+Met__atom_10,/ppara//G/WAT`10/C,Grease,NA,NA,35
+Met__atom_11,/ppara//G/WAT`11/C,Grease,NA,NA,37

@@ -1,0 +1,6 @@
+,Atom Details,Label,Acceptor H-Bonds,Donor H-Bonds,Hydrophobic Interactions
+Akt1_atom_1,/ppara//A/WAT`2/O,Acceptor,115,63,NA
+Akt1_atom_2,/ppara//A/WAT`5/O,Acceptor,78,31,NA
+Akt1_atom_3,/ppara//D/WAT`1/N,Donor,83,42,NA
+Akt1_atom_4,/ppara//D/WAT`4/N,Donor,74,35,NA
+Akt1_atom_5,/ppara//G/WAT`3/C,Grease,NA,NA,183
