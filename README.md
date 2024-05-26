@@ -1,6 +1,6 @@
 # PyMol_conserved_pharmacophore_sites
 
-Analysis goal: Finding the conserved water-based pharmacophore sites 
+Analysis goal: Finding the conserved pharmacophore sites 
 
 The script is available in Script/ directory
 
