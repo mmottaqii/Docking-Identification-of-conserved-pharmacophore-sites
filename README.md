@@ -9,7 +9,6 @@ Results for four proteins are available in the Results/ directory
 
 ![Pharmacophores acting as Donor or Acceptor atoms for hydrogen bonding](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_1.png?raw=true)
 ![140 ligands of aldose reductase (ALDR) protein](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_2.png?raw=true)
-![Acceptor atoms in a ligand and pharmacophores](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_3.png?raw=true)
 ![Donor atoms in a ligand and pharmacophores](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_4.png?raw=true)
 
 **Example Results for ALDR (human Aldehyde dehydrogenase 1A3, PBDID:6TGW):**
