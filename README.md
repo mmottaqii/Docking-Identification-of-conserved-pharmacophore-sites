@@ -6,6 +6,7 @@ The script is available in Script/ directory
 
 Results for four proteins are available in the Results/ directory
 
+![The paper](https://github.com/mmottaqii/Docking-Identification-of-conserved-pharmacophore-sites/blob/main/paper/Bioinformatics%20final%20term%20project.pdf)
 ![figure 1](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_5.png?raw=true)
 ![Pharmacophores acting as Donor or Acceptor atoms for hydrogen bonding](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_1.png?raw=true)
 ![140 ligands of aldose reductase (ALDR) protein](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_2.png?raw=true)
