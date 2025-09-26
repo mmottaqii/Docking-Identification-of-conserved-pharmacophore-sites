@@ -6,7 +6,7 @@ This project investigates the role of conserved pharmacophore sites in protein-l
 
 ![Figure 1: Pharmacophore Sites Interaction](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/blob/main/pictures/Picture_1.png?raw=true)
 
-- **Study Manuscript**: Explore the in-depth analysis in our [published paper](https://github.com/mmottaqii/Docking-Identification-of-conserved-pharmacophore-sites/blob/main/paper/Bioinformatics%20final%20term%20project.pdf).
+- **Study Manuscript**: Explore the in-depth analysis in our [paper](https://github.com/mmottaqii/Docking-Identification-of-conserved-pharmacophore-sites/blob/main/paper/Bioinformatics%20final%20term%20project.pdf).
 - **Script Usage**: Access our scripts in the [Script/ directory](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/tree/main/Script).
 - **Results Visualization**: View results for different proteins in the [Results/ directory](https://github.com/mmottaqii/PyMol_conserved_pharmacophore_sites/tree/main/Results).
 
